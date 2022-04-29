@@ -1,0 +1,12 @@
+C:\Users\Usuario\source\repos\BereniceApp\Berenice.Core\bin\Debug\net6.0\Berenice.Core.deps.json
+C:\Users\Usuario\source\repos\BereniceApp\Berenice.Core\bin\Debug\net6.0\Berenice.Core.dll
+C:\Users\Usuario\source\repos\BereniceApp\Berenice.Core\bin\Debug\net6.0\Berenice.Core.pdb
+C:\Users\Usuario\source\repos\BereniceApp\Berenice.Core\obj\Debug\net6.0\Berenice.Core.csproj.AssemblyReference.cache
+C:\Users\Usuario\source\repos\BereniceApp\Berenice.Core\obj\Debug\net6.0\Berenice.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\source\repos\BereniceApp\Berenice.Core\obj\Debug\net6.0\Berenice.Core.AssemblyInfoInputs.cache
+C:\Users\Usuario\source\repos\BereniceApp\Berenice.Core\obj\Debug\net6.0\Berenice.Core.AssemblyInfo.cs
+C:\Users\Usuario\source\repos\BereniceApp\Berenice.Core\obj\Debug\net6.0\Berenice.Core.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\BereniceApp\Berenice.Core\obj\Debug\net6.0\Berenice.Core.dll
+C:\Users\Usuario\source\repos\BereniceApp\Berenice.Core\obj\Debug\net6.0\refint\Berenice.Core.dll
+C:\Users\Usuario\source\repos\BereniceApp\Berenice.Core\obj\Debug\net6.0\Berenice.Core.pdb
+C:\Users\Usuario\source\repos\BereniceApp\Berenice.Core\obj\Debug\net6.0\ref\Berenice.Core.dll

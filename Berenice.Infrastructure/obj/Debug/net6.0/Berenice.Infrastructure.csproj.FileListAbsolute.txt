@@ -1,0 +1,17 @@
+C:\Users\Usuario\source\repos\BereniceApp\Berenice.Infrastructure\bin\Debug\net6.0\Berenice.Infrastructure.deps.json
+C:\Users\Usuario\source\repos\BereniceApp\Berenice.Infrastructure\bin\Debug\net6.0\Berenice.Infrastructure.dll
+C:\Users\Usuario\source\repos\BereniceApp\Berenice.Infrastructure\bin\Debug\net6.0\Berenice.Infrastructure.pdb
+C:\Users\Usuario\source\repos\BereniceApp\Berenice.Infrastructure\bin\Debug\net6.0\Berenice.Core.dll
+C:\Users\Usuario\source\repos\BereniceApp\Berenice.Infrastructure\bin\Debug\net6.0\Berenice.Core.pdb
+C:\Users\Usuario\source\repos\BereniceApp\Berenice.Infrastructure\obj\Debug\net6.0\Berenice.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\Usuario\source\repos\BereniceApp\Berenice.Infrastructure\obj\Debug\net6.0\Berenice.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\source\repos\BereniceApp\Berenice.Infrastructure\obj\Debug\net6.0\Berenice.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\Usuario\source\repos\BereniceApp\Berenice.Infrastructure\obj\Debug\net6.0\Berenice.Infrastructure.AssemblyInfo.cs
+C:\Users\Usuario\source\repos\BereniceApp\Berenice.Infrastructure\obj\Debug\net6.0\Berenice.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\BereniceApp\Berenice.Infrastructure\obj\Debug\net6.0\Berenice.Infrastructure.csproj.CopyComplete
+C:\Users\Usuario\source\repos\BereniceApp\Berenice.Infrastructure\obj\Debug\net6.0\Berenice.Infrastructure.dll
+C:\Users\Usuario\source\repos\BereniceApp\Berenice.Infrastructure\obj\Debug\net6.0\refint\Berenice.Infrastructure.dll
+C:\Users\Usuario\source\repos\BereniceApp\Berenice.Infrastructure\obj\Debug\net6.0\Berenice.Infrastructure.pdb
+C:\Users\Usuario\source\repos\BereniceApp\Berenice.Infrastructure\obj\Debug\net6.0\ref\Berenice.Infrastructure.dll
+C:\Users\Usuario\source\repos\BereniceApp\Berenice.Infrastructure\bin\Debug\net6.0\Berenice.Infrastructure.runtimeconfig.json
+C:\Users\Usuario\source\repos\BereniceApp\Berenice.Infrastructure\obj\Debug\net6.0\Berenice.Infrastructure.genruntimeconfig.cache
